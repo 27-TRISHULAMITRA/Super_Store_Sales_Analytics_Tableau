@@ -2,7 +2,7 @@
 
 
 
-# An interactive Tableau workbook analyzing the classic **Sample – Superstore** sales dataset — breaking down sales and profit performance across regions, states, product categories, customer segments, and shipping modes.
+An interactive Tableau workbook analyzing the classic **Sample – Superstore** sales dataset — breaking down sales and profit performance across regions, states, product categories, customer segments, and shipping modes.
 
 ---
 
@@ -17,24 +17,13 @@ https://public.tableau.com/app/profile/trishula.mitra/viz/supper_storedashboard/
 
 ## 🖼️ Dashboard Preview
 
-> 📌 Export screenshots from Tableau (Worksheet → Export → Image) and place them in an `images/` folder in your repo, then update the paths below.
 
-**Sales by Region**
-![Sales by Region](images/sales-by-region.png)
+<img width="1656" height="801" alt="Screenshot 2026-07-27 233036" src="https://github.com/user-attachments/assets/c8f2366f-6ccd-4166-877f-95951e3d9c4d" />
 
-**Profit by Region**
-![Profit by Region](images/profit-by-region.png)
 
-**Sales by State (Map)**
-![Sales by State Map](images/sales-state-map.png)
-
-**Sales by Customer Segment (Pie Chart)**
-![Sales by Customer Segment](images/sales-customer-segment.png)
-
-**Sales & Profit by Product Category × Region / Segment**
-![Category Breakdown](images/category-breakdown.png)
 
 ---
+
 
 ## 📌 Project Overview
 
@@ -62,7 +51,7 @@ Each record represents a single order line item, with fields including:
 
 ---
 
-## 🛠️ Worksheets & Analysis
+## Worksheets & Analysis
 
 | Sheet | Chart Type | Insight |
 |---|---|---|
@@ -80,7 +69,7 @@ Each visualization uses **color encoding** by dimension (Region, Customer Segmen
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Regional performance varies significantly** in both sales and profit — some regions generate strong revenue but comparatively thinner profit margins, which the side-by-side Sales vs. Profit views make easy to spot.
 - **Customer Segment concentration:** a review of the % of Total Profit by Segment shows profit contribution is not evenly split across segments, highlighting which customer types are most valuable.
@@ -90,7 +79,7 @@ Each visualization uses **color encoding** by dimension (Region, Customer Segmen
 
 ---
 
-## 🧰 Skills Demonstrated
+## Skills Demonstrated
 
 - Connecting and structuring a federated Excel data source in Tableau
 - Building comparative bar/text views with color and text-label encoding
@@ -101,7 +90,7 @@ Each visualization uses **color encoding** by dimension (Region, Customer Segmen
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
 ├──  README.md                       # Project documentation (this file)
