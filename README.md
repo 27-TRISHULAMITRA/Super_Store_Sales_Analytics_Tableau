@@ -1,4 +1,4 @@
-# 🏬 Superstore Sales & Profit Dashboard | Tableau Project
+#  Superstore Sales & Profit Dashboard | Tableau Project
 
 
 
@@ -15,7 +15,7 @@ https://public.tableau.com/app/profile/trishula.mitra/viz/supper_storedashboard/
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 
 <img width="1656" height="801" alt="Screenshot 2026-07-27 233036" src="https://github.com/user-attachments/assets/c8f2366f-6ccd-4166-877f-95951e3d9c4d" />
@@ -37,13 +37,13 @@ https://public.tableau.com/app/profile/trishula.mitra/viz/supper_storedashboard/
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 A retail superstore chain wants a clear, at-a-glance view of where its sales and profit are actually coming from — by region, state, product category, customer segment, and shipping method — so leadership can identify high-performing areas to invest in and underperforming areas that need attention.
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 Each record represents a single order line item, with fields including:
 
@@ -108,6 +108,3 @@ Each visualization uses **color encoding** by dimension (Region, Customer Segmen
 
 ---
 
-
-
-⭐ If you found this project useful, consider starring the repository!
