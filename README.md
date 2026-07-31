@@ -153,10 +153,9 @@ This dashboard enables stakeholders to:
 ## Repository Structure
 
 ```
-supper_store_dashboard.twbx
-
+Data analysis files 
 README.md
-
+supper_store_dashboard.twbx
 ---
 
 ## How to Use
